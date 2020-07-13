@@ -18,4 +18,4 @@ também será postado tutoriais com o intuito de instruir os servidores da Prefe
 ## Layouts
 Layouts open source utilizados: 
 * [AdminLTE3](https://adminlte.io/themes/v3/index.html);
-* [Debut](https://www.free-css.com/free-css-templates/page244/debu
+* [Debut](https://www.free-css.com/free-css-templates/page244/debut
